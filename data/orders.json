@@ -1,0 +1,723 @@
+[
+  {
+    "orderId": "KB-3326",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-13T19:02:32.183Z",
+    "updatedAt": "2026-10-13T19:02:32.694Z"
+  },
+  {
+    "orderId": "KB-2832",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-13T18:49:15.850Z",
+    "updatedAt": "2026-10-13T18:49:16.565Z"
+  },
+  {
+    "orderId": "KB-5273",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T16:50:20.905Z",
+    "updatedAt": "2026-10-12T16:50:21.373Z"
+  },
+  {
+    "orderId": "KB-4265",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T16:42:05.148Z",
+    "updatedAt": "2026-10-12T16:42:06.158Z"
+  },
+  {
+    "orderId": "KB-3869",
+    "customer": {
+      "name": "suarim bin saDICK",
+      "phone": "03001234567",
+      "address": "gohar green city r45"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 1,
+        "name": "Chicken Malai Boti",
+        "price": 850,
+        "qty": 1
+      }
+    ],
+    "subtotal": 850,
+    "deliveryFee": 150,
+    "total": 1000,
+    "status": "Received",
+    "notes": "",
+    "createdAt": "2026-10-12T16:17:12.238Z"
+  },
+  {
+    "orderId": "KB-5347",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T16:12:12.318Z",
+    "updatedAt": "2026-10-12T16:15:47.149Z"
+  },
+  {
+    "orderId": "KB-9634",
+    "customer": {
+      "name": "test",
+      "phone": "03001234567",
+      "address": "haider town street 2"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 9,
+        "name": "Mint Margarita",
+        "price": 220,
+        "qty": 1
+      }
+    ],
+    "subtotal": 220,
+    "deliveryFee": 150,
+    "total": 370,
+    "status": "Received",
+    "notes": "",
+    "createdAt": "2026-10-12T16:07:30.693Z"
+  },
+  {
+    "orderId": "KB-8132",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T16:04:38.940Z",
+    "updatedAt": "2026-10-12T16:15:43.487Z"
+  },
+  {
+    "orderId": "KB-9858",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T15:59:27.369Z",
+    "updatedAt": "2026-10-12T16:15:41.852Z"
+  },
+  {
+    "orderId": "KB-9027",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T15:53:51.053Z",
+    "updatedAt": "2026-10-12T16:15:40.354Z"
+  },
+  {
+    "orderId": "KB-8523",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T11:26:12.867Z",
+    "updatedAt": "2026-10-12T16:15:37.534Z"
+  },
+  {
+    "orderId": "KB-5147",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-12T11:25:19.922Z",
+    "updatedAt": "2026-10-12T16:15:36.862Z"
+  },
+  {
+    "orderId": "KB-5031",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-11T19:44:59.633Z",
+    "updatedAt": "2026-10-11T19:45:00.523Z"
+  },
+  {
+    "orderId": "KB-9055",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Preparing",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-11T19:07:36.545Z",
+    "updatedAt": "2026-10-11T19:07:36.557Z"
+  },
+  {
+    "orderId": "KB-3910",
+    "customer": {
+      "name": "Test",
+      "phone": "03003030303",
+      "address": "tes test ets t"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 1,
+        "name": "Chicken Malai Boti",
+        "price": 850,
+        "qty": 1
+      }
+    ],
+    "subtotal": 850,
+    "deliveryFee": 150,
+    "total": 1000,
+    "status": "Received",
+    "notes": "",
+    "createdAt": "2026-10-11T18:51:49.600Z"
+  },
+  {
+    "orderId": "KB-6969",
+    "customer": {
+      "name": "shamikh sheikh",
+      "phone": "03364502450",
+      "address": "R32 ahsanabad society karachi malir"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 1,
+        "name": "Chicken Malai Boti",
+        "price": 850,
+        "qty": 1
+      },
+      {
+        "id": 2,
+        "name": "Beef Seekh Kebab",
+        "price": 780,
+        "qty": 1
+      },
+      {
+        "id": 3,
+        "name": "Mutton Karahi (half)",
+        "price": 1650,
+        "qty": 1
+      },
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 6,
+        "name": "Vegetable Pulao",
+        "price": 420,
+        "qty": 1
+      },
+      {
+        "id": 5,
+        "name": "Chicken Biryani",
+        "price": 550,
+        "qty": 1
+      },
+      {
+        "id": 7,
+        "name": "Zinger Paratha Roll",
+        "price": 450,
+        "qty": 1
+      },
+      {
+        "id": 8,
+        "name": "Paneer Tikka Roll",
+        "price": 480,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 1
+      },
+      {
+        "id": 9,
+        "name": "Mint Margarita",
+        "price": 220,
+        "qty": 1
+      },
+      {
+        "id": 11,
+        "name": "Gulab Jamun (2 pcs)",
+        "price": 250,
+        "qty": 1
+      },
+      {
+        "id": 12,
+        "name": "Kheer",
+        "price": 300,
+        "qty": 1
+      }
+    ],
+    "subtotal": 7350,
+    "deliveryFee": 150,
+    "total": 7500,
+    "status": "Received",
+    "notes": "keep everything spicyyyy",
+    "createdAt": "2026-10-11T18:44:07.118Z"
+  },
+  {
+    "orderId": "KB-5683",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-11T11:08:25.670Z",
+    "updatedAt": "2026-10-11T17:26:23.441Z"
+  },
+  {
+    "orderId": "KB-4067",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-11T10:43:00.763Z",
+    "updatedAt": "2026-10-11T17:26:26.767Z"
+  },
+  {
+    "orderId": "KB-3905",
+    "customer": {
+      "name": "Saad Ahmed",
+      "phone": "0300-8765432",
+      "address": "House 88, Block 6, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 4,
+        "name": "Chicken Karahi (half)",
+        "price": 1250,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 150,
+    "total": 1700,
+    "status": "Delivered",
+    "notes": "Less spicy please",
+    "createdAt": "2026-10-11T10:02:56.616Z",
+    "updatedAt": "2026-10-11T17:26:29.827Z"
+  },
+  {
+    "orderId": "KB-9430",
+    "customer": {
+      "name": "Zainab Ali",
+      "phone": "03001234567",
+      "address": "House 12, Block 4, Clifton"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 1,
+        "name": "Chicken Malai Boti",
+        "price": 850,
+        "qty": 1
+      }
+    ],
+    "subtotal": 850,
+    "deliveryFee": 150,
+    "total": 1000,
+    "status": "Delivered",
+    "notes": "",
+    "createdAt": "2026-10-10T16:45:45.714Z",
+    "updatedAt": "2026-10-11T17:26:55.548Z"
+  },
+  {
+    "orderId": "KB-1001",
+    "customer": {
+      "name": "Hamza Khan",
+      "phone": "0300-1234567",
+      "address": "House 42, Street 8, Block 4, Clifton"
+    },
+    "branch": "Clifton",
+    "items": [
+      {
+        "id": 1,
+        "name": "Chicken Malai Boti",
+        "price": 850,
+        "qty": 2
+      },
+      {
+        "id": 5,
+        "name": "Chicken Biryani",
+        "price": 550,
+        "qty": 1
+      }
+    ],
+    "subtotal": 2250,
+    "deliveryFee": 150,
+    "total": 2400,
+    "status": "Delivered",
+    "notes": "Please bring mint chutney extra.",
+    "createdAt": "2026-10-10T16:09:51.558Z",
+    "updatedAt": "2026-10-11T17:26:51.443Z"
+  },
+  {
+    "orderId": "KB-1002",
+    "customer": {
+      "name": "Ayesha Siddiqui",
+      "phone": "0321-9876543",
+      "address": "Apartment 5B, Al-Noor Heights, Gulshan-e-Iqbal"
+    },
+    "branch": "Gulshan-e-Iqbal",
+    "items": [
+      {
+        "id": 3,
+        "name": "Mutton Karahi (half)",
+        "price": 1650,
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "name": "Doodh Patti Chai",
+        "price": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1950,
+    "deliveryFee": 150,
+    "total": 2100,
+    "status": "Delivered",
+    "notes": "Make it medium spicy.",
+    "createdAt": "2026-10-10T16:29:51.558Z",
+    "updatedAt": "2026-10-11T17:26:33.131Z"
+  },
+  {
+    "orderId": "KB-1003",
+    "customer": {
+      "name": "Bilal Farooq",
+      "phone": "0333-5551234",
+      "address": "House B-14, Block D, North Nazimabad"
+    },
+    "branch": "North Nazimabad",
+    "items": [
+      {
+        "id": 7,
+        "name": "Zinger Paratha Roll",
+        "price": 450,
+        "qty": 2
+      },
+      {
+        "id": 9,
+        "name": "Mint Margarita",
+        "price": 220,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1340,
+    "deliveryFee": 150,
+    "total": 1490,
+    "status": "Delivered",
+    "notes": "",
+    "createdAt": "2026-10-10T14:44:51.558Z"
+  }
+]
